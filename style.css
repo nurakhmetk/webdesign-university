@@ -543,7 +543,18 @@ h2 {
   text-align: start;
 }
 
+.author {
+  margin-top: 40px;
+}
+
 @media (min-width: 1024px) {
+  .map {
+    height: auto;
+    padding-bottom: 20px;
+  }
+  .map iframe {
+    height: 400px;
+  }
   .main-events section {
     width: 50%;
   }
@@ -587,8 +598,8 @@ h2 {
     font-size: larger;
   }
   .person-detail img {
-    width: 500px;
-    height: 500px;
+    width: 400px;
+    height: 450px;
   }
   .team-member {
     width: 100%;
