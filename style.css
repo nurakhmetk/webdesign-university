@@ -288,10 +288,10 @@ h2 {
   background-color: rgb(170, 43, 122);
 }
 .faculty:nth-child(4) {
-  background-color: rgb(57, 177, 127);
+  background-color: #357965;
 }
 .faculty:nth-child(5) {
-  background-color: rgb(202, 155, 68);
+  background-color: #847122;
 }
 
 .news-blocks {
